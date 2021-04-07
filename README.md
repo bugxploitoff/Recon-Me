@@ -71,7 +71,7 @@ Because some of tools and dependencies will need the root permission
 16. Port_scan.sh
 
 
-#### Wait the NEXT version with more and more new interesting features <3 
+#### Wait the NEXT version with more and more new interesting features 
 
 ----------------------------------------
 ## Stay in touch <3 
