@@ -75,4 +75,4 @@ Because some of tools and dependencies will need the root permission
 
 ----------------------------------------
 ## Stay in touch <3 
-[LinkedIn](https://www.linkedin.com/in/eslam3kl/) | [Blog](https://eslam3kl.medium.com/)  |  [Twitter](https://twitter.com/eslam3kll)
+[LinkedIn](https://www.linkedin.com/in/devilsumonvit/) | [Blog](https://snath2973.medium.com/)  |
