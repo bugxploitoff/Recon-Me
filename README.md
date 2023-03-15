@@ -5,9 +5,6 @@ Full Automation Recon tool which works with Small and Medium scopes.
 
 ّIt's recommended to use it on VPS, it'll discover secrets and searching for vulnerabilities 
 
-**So, Welcome and let's deep into it <3**
-
-![Welcome](Welcome.png)
 
 
 ----------------------------------------
@@ -75,4 +72,4 @@ Because some of tools and dependencies will need the root permission
 
 ----------------------------------------
 ## Stay in touch <3 
-[LinkedIn](https://www.linkedin.com/in/devilsumonvit/) | [Blog](https://snath2973.medium.com/)  |
+[LinkedIn](https://www.linkedin.com/in/bugxploit/) | [instagram](https://instagram.com/bugxploit)  |
