@@ -1,8 +1,5 @@
 #!/bin/sh 
 
-#this script was written by @eslam3kl 
-#happy hacking 
-
 #install script languages 
 
 sudo apt-get install golang;
