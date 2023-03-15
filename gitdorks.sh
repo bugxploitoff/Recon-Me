@@ -1,6 +1,4 @@
 #!/bin/bash
-#written by Jasson Haddix - @jhaddix 
-#edited by Eslam Akl - @eslam3kl
 
 without_suffix=`echo $1|cut -d . -f1`
 echo ""
