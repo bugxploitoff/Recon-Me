@@ -33,7 +33,7 @@ Because some of tools and dependencies will need the root permission
 
 #### 3. Running tool (Preferred to use python2 not python3)
 
-` python 3klcon.py -t target.com ` 
+` python Recon.py -t target.com ` 
 
 ----------------------------------------
 ## Notes
